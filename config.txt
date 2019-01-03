@@ -1,0 +1,7 @@
+?token=NTMwMzkzODM2ODkxOTMwNjU2.Dw-wEQ.1ZLlPkTlgW7AtNX8W4Y2Sfi29Bw
+owner=507656114784043032
+prefix= r
+game= Help !rhelp
+stayinchannel=true
+songinstatus=true 
+token=NTMwMzkzODM2ODkxOTMwNjU2.Dw-wEQ.1ZLlPkTlgW7AtNX8W4Y2Sfi29Bw
