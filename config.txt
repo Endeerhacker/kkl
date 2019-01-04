@@ -1,4 +1,3 @@
-token=NTI1NjYzMDI4NDM2NDAyMTg2.DxEeNA.jsLQpww2aU0hZp5nqYqPEZBQaDI
 owner=507656114784043032
 prefix= r
 game= Help rhelp
